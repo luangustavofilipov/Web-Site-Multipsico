@@ -1,0 +1,10 @@
+body {
+  background: url(../img/fundo.fw.png);
+}
+
+#logo {
+  text-indent: -30000px;
+  width: 900px;
+  height: 180px;
+  background: url(../img/download.fw.png) no-repeat left;
+}
