@@ -1,10 +1,8 @@
-body {
-  background: url(../img/fundo.fw.png);
+#home{
+  color: #000;
 }
 
-#logo {
-  text-indent: -30000px;
-  width: 900px;
-  height: 180px;
-  background: url(../img/download.fw.png) no-repeat left;
+.caixa{
+  padding: 60px 0;
+  border-bottom: 1px solid #e5e5e5;
 }
