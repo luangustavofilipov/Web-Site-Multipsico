@@ -1,0 +1,15 @@
+
+
+#home{
+  color: #000;
+}
+
+.caixa{
+  padding: 60px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.para{
+  font-family: "Helvetica", Trebuchet MS, sans-serif;
+  font-size: 17px;
+}
